@@ -26,7 +26,7 @@ MonoBehaviour:
     distortionRenderingLayer: 31
     eyewearType: 1
     stereoFramework: 0
-    seeThroughConfiguration: 0
+    seeThroughConfiguration: 1
     viewerName: 
     viewerManufacturer: 
     useCustomViewer: 0
@@ -44,11 +44,13 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - ShopparDB
     - ARONEDATABASE
     - VuforiaMars_Images
     - VuforiaMars_Object_OT
     - VuforiaMars_VuMark
     dataSetsToActivate:
+    - ShopparDB
     - ARONEDATABASE
     - VuforiaMars_Images
     - VuforiaMars_Object_OT

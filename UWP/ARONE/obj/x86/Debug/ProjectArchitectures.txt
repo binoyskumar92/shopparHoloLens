@@ -1,0 +1,4 @@
+C:\Users\apoos\Documents\ARONE\UWP\ARONE\ARONE.csproj;x86
+C:\Users\apoos\Documents\ARONE\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\apoos\Documents\ARONE\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\apoos\Documents\ARONE\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

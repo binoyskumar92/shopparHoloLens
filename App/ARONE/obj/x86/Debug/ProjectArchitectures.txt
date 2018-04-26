@@ -1,2 +1,0 @@
-C:\Users\apoos\Documents\ARONE\App\ARONE\ARONE.csproj;x86
-C:\Users\apoos\Documents\ARONE\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
